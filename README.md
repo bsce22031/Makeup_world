@@ -17,21 +17,8 @@ pgsql
 Copy
 Edit
 # makeup_website/
-│
-├── admin_dashboard.php     # Admin product dashboard
-├── admin_login.php         # Admin login page
-├── create.php              # Add new product
-├── db.php                  # Database connection
-├── delete.php              # Delete product
-├── index.html              # Main landing page
-├── logout.php              # Logout functionality
-├── products.php            # Product display
-├── read.php                # View product details
-├── update.php              # Update existing product
-├── user_login.php          # Placeholder for user login (future use)
-├── validate_admin.php      # Admin login validation
-├── style.css               # Stylesheet
-└── image/                  # Product image directory
+![image](https://github.com/user-attachments/assets/4e52722a-63d3-4e84-8261-72fee71052cf)
+
 # ⚙️ Setup Instructions
 # Clone this repo:
 
