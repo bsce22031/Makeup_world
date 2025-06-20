@@ -13,12 +13,7 @@ Makeup World is a simple PHP-based web application that allows admin users to ma
 💾 Database Connectivity: PHP + MySQL integration through db.php.
 
 # 📁 Project Structure
-pgsql
-Copy
-Edit
-# makeup_website/
-![image](https://github.com/user-attachments/assets/4e52722a-63d3-4e84-8261-72fee71052cf)
-
+![image](https://github.com/user-attachments/assets/4f74aea8-57ed-4216-92a8-504720e8cb0b)
 # ⚙️ Setup Instructions
 # Clone this repo:
 
